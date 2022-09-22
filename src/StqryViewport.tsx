@@ -19,7 +19,7 @@ function StqryViewport(props: Props) {
   const height = 3104;
 
   const imageProps = {
-    src: "https://i.imgur.com/gXkGzQb.jpg",
+    src: "https://sot-2022-tech-test-example.netlify.app/sharp_mountain_ridges.jpeg",
     alt: "Sharp mountain ridges",
     viewportWidth,
     viewportHeight,
