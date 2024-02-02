@@ -15,12 +15,12 @@ interface Props {
 
 function StqryViewport(props: Props) {
   const { viewportHeight, viewportWidth } = useViewport();
-  const width = 4672;
-  const height = 3104;
+  const width = 3506;
+  const height = 2329;
 
   const imageProps = {
-    src: "https://sot-2022-tech-test-example.netlify.app/sharp_mountain_ridges.jpeg",
-    alt: "Sharp mountain ridges",
+    src: "https://sot-2024-tech-test-example.pages.dev/mountain_sunset_solitude.jpg",
+    alt: "Mountain sunset solitude",
     viewportWidth,
     viewportHeight,
     width,
